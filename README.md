@@ -1,6 +1,6 @@
 # MyProject Repository
 
-## README.m
+## README.md
 # MyProject
 
 A brief description of what this project does.
