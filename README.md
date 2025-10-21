@@ -1,4 +1,4 @@
-# MPrject Repository
+# MProject Repository
 
 ## README.md
 # MyProject
